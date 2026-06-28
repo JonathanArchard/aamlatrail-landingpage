@@ -1,0 +1,138 @@
+<svg width="1920" height="1080" viewBox="0 0 680 382" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>AamlaTrail Premium Logo 16:9</title>
+  <desc>AamlaTrail luxury logo — deep forest green background with gold botanical shield mark and refined serif wordmark</desc>
+
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300;1,400&amp;family=Cinzel:wght@300;400&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Deep forest ground -->
+  <rect width="680" height="382" fill="#0F2318"/>
+
+  <!-- Corner vignette -->
+  <path d="M0,0 Q80,0 80,0 L0,80 Z" fill="#000" opacity="0.08"/>
+  <path d="M680,0 Q600,0 600,0 L680,80 Z" fill="#000" opacity="0.08"/>
+  <path d="M0,382 Q80,382 80,382 L0,302 Z" fill="#000" opacity="0.08"/>
+  <path d="M680,382 Q600,382 600,382 L680,302 Z" fill="#000" opacity="0.08"/>
+
+  <!-- Corner registration ticks -->
+  <g stroke="#B8962E" stroke-width="0.5" opacity="0.45">
+    <line x1="32" y1="20" x2="52" y2="20"/>
+    <line x1="32" y1="20" x2="32" y2="40"/>
+    <line x1="648" y1="20" x2="628" y2="20"/>
+    <line x1="648" y1="20" x2="648" y2="40"/>
+    <line x1="32" y1="362" x2="52" y2="362"/>
+    <line x1="32" y1="362" x2="32" y2="342"/>
+    <line x1="648" y1="362" x2="628" y2="362"/>
+    <line x1="648" y1="362" x2="648" y2="342"/>
+  </g>
+
+  <!-- Outer halo rings -->
+  <circle cx="340" cy="175" r="148" fill="none" stroke="#B8962E" stroke-width="0.3" opacity="0.2"/>
+  <circle cx="340" cy="175" r="152" fill="none" stroke="#B8962E" stroke-width="0.18" opacity="0.12"/>
+
+  <!-- Left vertical rule + label -->
+  <line x1="108" y1="80" x2="108" y2="295" stroke="#B8962E" stroke-width="0.4" opacity="0.35"/>
+  <circle cx="108" cy="78"  r="1.5" fill="#B8962E" opacity="0.45"/>
+  <circle cx="108" cy="297" r="1.5" fill="#B8962E" opacity="0.45"/>
+  <text font-family="'Cormorant Garamond', Georgia, serif" font-size="10" font-weight="300"
+        letter-spacing="4" fill="#B8962E" opacity="0.35" text-anchor="middle"
+        transform="translate(94,188) rotate(-90)">AYURVEDIC WOMEN&#39;S WELLNESS</text>
+
+  <!-- Right vertical rule + label -->
+  <line x1="572" y1="80" x2="572" y2="295" stroke="#B8962E" stroke-width="0.4" opacity="0.35"/>
+  <circle cx="572" cy="78"  r="1.5" fill="#B8962E" opacity="0.45"/>
+  <circle cx="572" cy="297" r="1.5" fill="#B8962E" opacity="0.45"/>
+  <text font-family="'Cormorant Garamond', Georgia, serif" font-size="10" font-weight="300"
+        letter-spacing="4" fill="#B8962E" opacity="0.35" text-anchor="middle"
+        transform="translate(586,188) rotate(90)">EST. BY DR. KAVYA  &#183;  MD AYURVEDA</text>
+
+  <!-- ══ SHIELD MARK — centred at 340, 168 ══ -->
+  <g transform="translate(340,168)">
+
+    <!-- Cardinal arc flourishes -->
+    <path d="M-18,-126 Q0,-136 18,-126" fill="none" stroke="#B8962E" stroke-width="0.7" opacity="0.6" stroke-linecap="round"/>
+    <path d="M-18,126  Q0,136  18,126"  fill="none" stroke="#B8962E" stroke-width="0.7" opacity="0.6" stroke-linecap="round"/>
+    <path d="M-126,-18 Q-136,0 -126,18" fill="none" stroke="#B8962E" stroke-width="0.7" opacity="0.6" stroke-linecap="round"/>
+    <path d="M126,-18  Q136,0  126,18"  fill="none" stroke="#B8962E" stroke-width="0.7" opacity="0.6" stroke-linecap="round"/>
+    <circle cx="0"    cy="-130" r="1.6" fill="#B8962E" opacity="0.6"/>
+    <circle cx="0"    cy="130"  r="1.6" fill="#B8962E" opacity="0.6"/>
+    <circle cx="-130" cy="0"    r="1.6" fill="#B8962E" opacity="0.6"/>
+    <circle cx="130"  cy="0"    r="1.6" fill="#B8962E" opacity="0.6"/>
+
+    <!-- Fine outer ring -->
+    <circle cx="0" cy="0" r="126" fill="none" stroke="#B8962E" stroke-width="0.4" opacity="0.4"/>
+
+    <!-- Left botanical tendril -->
+    <path d="M-90,-24 C-124,-46 -136,-16 -112,0 C-136,16 -124,46 -90,24"
+          fill="none" stroke="#B8962E" stroke-width="0.6" opacity="0.5" stroke-linecap="round"/>
+    <circle cx="-90" cy="-24" r="1.4" fill="#B8962E" opacity="0.55"/>
+    <circle cx="-90" cy="24"  r="1.4" fill="#B8962E" opacity="0.55"/>
+    <!-- Right botanical tendril -->
+    <path d="M90,-24 C124,-46 136,-16 112,0 C136,16 124,46 90,24"
+          fill="none" stroke="#B8962E" stroke-width="0.6" opacity="0.5" stroke-linecap="round"/>
+    <circle cx="90" cy="-24" r="1.4" fill="#B8962E" opacity="0.55"/>
+    <circle cx="90" cy="24"  r="1.4" fill="#B8962E" opacity="0.55"/>
+
+    <!-- Shield — three depth layers -->
+    <path d="M0,-108 C52,-108 90,-70 90,-22 C90,36 54,84 0,108 C-54,84 -90,36 -90,-22 C-90,-70 -52,-108 0,-108 Z"
+          fill="#1E3D2A" opacity="0.7"/>
+    <path d="M0,-96 C44,-96 78,-62 78,-18 C78,34 46,76 0,96 C-46,76 -78,34 -78,-18 C-78,-62 -44,-96 0,-96 Z"
+          fill="#243F2F" opacity="0.8"/>
+    <path d="M0,-82 C36,-82 64,-52 64,-12 C64,30 38,64 0,82 C-38,64 -64,30 -64,-12 C-64,-52 -36,-82 0,-82 Z"
+          fill="#1B4332"/>
+    <path d="M0,-82 C36,-82 64,-52 64,-12 C64,30 38,64 0,82 C-38,64 -64,30 -64,-12 C-64,-52 -36,-82 0,-82 Z"
+          fill="none" stroke="#B8962E" stroke-width="0.55" opacity="0.55"/>
+
+    <!-- Inner oval -->
+    <ellipse cx="0" cy="6" rx="30" ry="42" fill="none" stroke="#B8962E" stroke-width="0.45" opacity="0.4"/>
+    <ellipse cx="0" cy="6" rx="27" ry="38" fill="#F5EDD8"/>
+
+    <!-- Stem -->
+    <line x1="0" y1="-38" x2="0" y2="-22" stroke="#1B4332" stroke-width="0.9" stroke-linecap="round"/>
+    <!-- Leaves -->
+    <path d="M0,-32 C-8,-38 -15,-31 -8,-27 C-5,-26 0,-29 0,-32 Z" fill="#2D6A4F"/>
+    <path d="M0,-32 C8,-38 15,-31 8,-27 C5,-26 0,-29 0,-32 Z"  fill="#2D6A4F"/>
+    <!-- Amla berry -->
+    <circle cx="0" cy="-14" r="9"   fill="none" stroke="#B8962E" stroke-width="0.7"/>
+    <circle cx="0" cy="-14" r="9"   fill="#1B4332" opacity="0.1"/>
+    <circle cx="0" cy="-14" r="3.5" fill="#B8962E"/>
+    <g stroke="#B8962E" stroke-width="0.45" opacity="0.65">
+      <line x1="0"    y1="-23"   x2="0"    y2="-5"/>
+      <line x1="-7.8" y1="-18.5" x2="7.8"  y2="-9.5"/>
+      <line x1="7.8"  y1="-18.5" x2="-7.8" y2="-9.5"/>
+    </g>
+    <!-- Feminine arc -->
+    <path d="M-14,36 Q0,46 14,36" fill="none" stroke="#B8962E" stroke-width="0.85" stroke-linecap="round" opacity="0.8"/>
+    <circle cx="-18" cy="36" r="1.3" fill="#B8962E" opacity="0.5"/>
+    <circle cx="18"  cy="36" r="1.3" fill="#B8962E" opacity="0.5"/>
+
+    <!-- Top finial -->
+    <line x1="0" y1="-82" x2="0" y2="-94" stroke="#B8962E" stroke-width="0.55" opacity="0.55" stroke-linecap="round"/>
+    <circle cx="0" cy="-97" r="2.2" fill="none" stroke="#B8962E" stroke-width="0.55" opacity="0.6"/>
+    <circle cx="0" cy="-97" r="0.9" fill="#B8962E" opacity="0.7"/>
+    <path d="M0,-97 C-6,-103 -11,-100 -6,-96" fill="none" stroke="#B8962E" stroke-width="0.5" opacity="0.5" stroke-linecap="round"/>
+    <path d="M0,-97 C6,-103 11,-100 6,-96"  fill="none" stroke="#B8962E" stroke-width="0.5" opacity="0.5" stroke-linecap="round"/>
+
+  </g>
+
+  <!-- ══ WORDMARK ══ -->
+  <text x="340" y="316"
+        font-family="'Cinzel', Georgia, serif"
+        font-size="30" font-weight="300" letter-spacing="13"
+        fill="#C9A84C" text-anchor="middle">AAMLATRAIL</text>
+
+  <!-- Rule + diamond ornament -->
+  <line x1="155" y1="328" x2="318" y2="328" stroke="#B8962E" stroke-width="0.5" opacity="0.6"/>
+  <polygon points="340,323 344,328 340,333 336,328" fill="#B8962E" opacity="0.85"/>
+  <line x1="362" y1="328" x2="525" y2="328" stroke="#B8962E" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Tagline -->
+  <text x="340" y="352"
+        font-family="'Cormorant Garamond', Georgia, serif"
+        font-size="12.5" font-weight="300" font-style="italic" letter-spacing="4.5"
+        fill="#C9A84C" text-anchor="middle" opacity="0.6">women &#183; fertility &#183; ayurveda</text>
+
+</svg>
